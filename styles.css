@@ -1,0 +1,27 @@
+nav {
+  padding-left: 30%;
+}
+
+.glyphicon1 {
+background-color: #36B878;
+color: white;
+padding: 12px;
+border-radius: 50px;
+}
+
+/*#circle {
+  width: 50px;
+  height: 50px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  border-radius: 25px;
+  background: red;
+}*/
+
+h4, p {
+  color: silver;
+}
+
+h4 {
+  text-align: center;
+}
